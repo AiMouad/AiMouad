@@ -9,18 +9,18 @@
   <img src="https://komarev.com/ghpvc/?username=mehdid0&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-- 🌱 I’m currently a **Mobile App Developper FLUTTER**
+- 🌱 I’m currently a **Mobile & Web App Developper **
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohamed-elmahdi-bendimerad-2b8419243/" target="_blank">
+  <a href="https://www.linkedin.com/in/mouad-ťňb-86350b296" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/dii._._i" target="_blank">
+  <a href="https://instagram.com/mouad_aichi" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
-  <a href="https://www.youtube.com/channel/UCIJs4Jo-L97QufWVjrDkoSQ" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
+  <a href="https://www.facebook.com/profile.php?id=100061841672548&ref=ig_profile_ac" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
 </p>
 
@@ -40,9 +40,6 @@
   </a>
   <a href="https://dart.dev" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/>
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/>
   </a>
   <a href="https://firebase.google.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
