@@ -2,13 +2,17 @@
 
 ### A Passionate Mobile & Web Developer from Algeria 🇩🇿
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Aichi+Mouad+%F0%9F%91%8B;Mobile+%26+Web+Developer+from+Algeria+%F0%9F%87%A9%F0%9F%87%BF;Building+Digital+Solutions+%E2%9A%A1;Flutter+%7C+React+%7C+Node.js+Enthusiast" alt="Typing SVG" />
+</div>
 <p align="center">
-  <img src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="Coding Animation" width="400">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Coding Animation" width="500">
 </p>
-
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=AiMouad&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=AiMouad&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/AiMouad?label=Followers&style=for-the-badge&color=blue" alt="GitHub followers" />
+  <img src="https://img.shields.io/badge/Focus-Mobile%20%26%20Web%20Development-brightgreen?style=for-the-badge" alt="Focus" />
+</div>
 
 ## 🚀 About Me
 
