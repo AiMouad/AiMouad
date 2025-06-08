@@ -61,7 +61,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" height="50" title="Express.js"/>
 
 ### Mobile Development
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="50" height="50" title="Flutter"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50" height="50" title="Flutter"/>
 
 ### Databases
 <img src="https://user-images.githubusercontent.com/74038190/212257455-8b76d67b-b3bc-4e77-9d27-e5b07b6ad2b7.gif" width="50" height="50" title="MySQL"/>
