@@ -151,22 +151,22 @@
 </div>
 
 ## 📊 GitHub Analytics
-
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AiMouad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AiMouad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AiMouad&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </div>
-
 <div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AiMouad&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AiMouad&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&exclude_repo=repo-name-to-exclude" alt="Top Languages" />
 </div>
-
+<!-- Alternative if the above doesn't work -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AiMouad&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+  <a href="https://github.com/AiMouad">
+    <img src="https://github-readme-stats.vercel.app/api?username=AiMouad&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+  </a>
 </div>
-
+<!-- Simple contribution graph alternative -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="900">
+  <img src="https://ghchart.rshah.org/AiMouad" alt="GitHub Contribution Chart" />
 </div>
 
 ## 🏆 Professional Achievements
