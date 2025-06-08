@@ -9,7 +9,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=AiMouad&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/AiMouad?label=Followers&style=for-the-badge&color=blue" alt="GitHub followers" />
-  <img src="https://img.shields.io/badge/Experience-5%2B%20Years-blue?style=for-the-badge" alt="Experience" />
+  <img src="https://img.shields.io/badge/Focus-Mobile%20%26%20Web%20Development-blue?style=for-the-badge" alt="Focus" />
   <img src="https://img.shields.io/badge/Available-For%20Projects-success?style=for-the-badge" alt="Available" />
 </div>
 
@@ -23,15 +23,15 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-🎯 **Senior Mobile & Web Application Developer** with **5+ years** of experience building scalable, high-performance applications
+🎯 **Mobile & Web Developer** specializing in modern full-stack solutions
 
-💼 **Expertise in** full-stack development, mobile app architecture, and modern web technologies
+💼 **Tech Stack:** Flutter, React, Node.js, PHP, and database technologies
 
-🌟 **Specialized in** cross-platform solutions that deliver exceptional user experiences
+🌟 **Focus Areas:** Cross-platform mobile apps, responsive web applications, and database-driven solutions
 
-📈 **Proven track record** of successful project delivery and client satisfaction
+📈 **Passionate about** creating clean, efficient code and user-friendly interfaces
 
-🔥 **Currently focused on** cutting-edge technologies like Flutter, React, and cloud-native solutions
+🔥 **Currently building** innovative projects with Flutter and React ecosystems
 
 <br clear="right"/>
 
@@ -39,32 +39,39 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="900">
 </div>
 
-## 💻 Technical Expertise
+## 💻 Technical Skills
 
 <div align="center">
 
-### Frontend Development
-<img src="https://user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif" width="40" height="40"/>
-<img src="https://user-images.githubusercontent.com/74038190/238200620-398b19b1-9aae-4c1f-8bc0-d172a2c08d68.gif" width="40" height="40"/>
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="40" height="40"/>
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="40" height="40"/>
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b7e18d7.gif" width="40" height="40"/>
+### Programming Languages
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="50" height="50" title="HTML5"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="50" height="50" title="CSS3"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b7e18d7.gif" width="50" height="50" title="JavaScript"/>
+<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="50" height="50" title="PHP"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257449-16ac8bad-52d6-4ebb-9a2e-e4110bb1e6df.gif" width="50" height="50" title="Python"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="50" height="50" title="Java"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50" title="C"/>
+
+### Frontend Technologies
+<img src="https://user-images.githubusercontent.com/74038190/212280823-79088828-a258-4a4d-8d6c-96315d5a07af.gif" width="50" height="50" title="React"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="50" height="50" title="jQuery"/>
+
+### Backend & Frameworks
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="50" height="50" title="Node.js"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" height="50" title="Express.js"/>
 
 ### Mobile Development
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="40" height="40"/>
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="40" height="40"/>
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="40" height="40"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="50" height="50" title="Flutter"/>
 
-### Backend & Database
-<img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="40" height="40"/>
-<img src="https://user-images.githubusercontent.com/74038190/212257449-16ac8bad-52d6-4ebb-9a2e-e4110bb1e6df.gif" width="40" height="40"/>
-<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="40" height="40"/>
-<img src="https://user-images.githubusercontent.com/74038190/212257455-8b76d67b-b3bc-4e77-9d27-e5b07b6ad2b7.gif" width="40" height="40"/>
-<img src="https://user-images.githubusercontent.com/74038190/212257456-23c5a76d-82c8-4d47-b53b-f8fb41e13fcf.gif" width="40" height="40"/>
+### Databases
+<img src="https://user-images.githubusercontent.com/74038190/212257455-8b76d67b-b3bc-4e77-9d27-e5b07b6ad2b7.gif" width="50" height="50" title="MySQL"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257456-23c5a76d-82c8-4d47-b53b-f8fb41e13fcf.gif" width="50" height="50" title="MongoDB"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50" height="50" title="Firebase"/>
 
-### DevOps & Tools
-<img src="https://user-images.githubusercontent.com/74038190/212257458-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="40" height="40"/>
-<img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="40" height="40"/>
+### Development Tools
+<img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="50" height="50" title="Git"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" title="GitHub"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" title="VS Code"/>
 
 </div>
 
@@ -79,39 +86,39 @@
 <td align="center" width="50%">
 
 **📱 Mobile Development**
-- Cross-platform app development
-- Native Android & iOS solutions  
-- Performance optimization
-- App store deployment
+- Flutter app development
+- Cross-platform solutions
+- Firebase integration
+- Mobile UI/UX design
 
 </td>
 <td align="center" width="50%">
 
 **🌐 Web Development**
-- Responsive web applications
-- Progressive Web Apps (PWA)
-- RESTful API development
-- Cloud deployment & scaling
+- Frontend: HTML, CSS, JavaScript
+- Backend: PHP, Node.js, Express
+- Interactive UIs with React & jQuery
+- AJAX for dynamic content
 
 </td>
 </tr>
 <tr>
 <td align="center" width="50%">
 
-**⚡ Performance & Security**
-- Code optimization techniques
-- Security best practices
-- Database performance tuning
-- Application monitoring
+**🗄️ Database Management**
+- MySQL database design
+- MongoDB NoSQL solutions
+- Firebase real-time database
+- Data modeling & optimization
 
 </td>
 <td align="center" width="50%">
 
-**🚀 Project Management**
-- Agile/Scrum methodologies
-- Client communication
-- Technical documentation
-- Team collaboration
+**⚡ Development Tools**
+- Version control with Git/GitHub
+- VS Code development environment
+- Programming in C, Java, Python
+- Full-stack development workflow
 
 </td>
 </tr>
@@ -124,7 +131,7 @@
 ## 🌐 Professional Network
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/mouad-aichi-86350b296/" target="_blank">
+  <a href="https://www.linkedin.com/in/mouad-ťňb-86350b296" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://instagram.com/mouad_aichi" target="_blank">
@@ -133,7 +140,7 @@
   <a href="https://www.facebook.com/profile.php?id=100061841672548&ref=ig_profile_ac" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="mailto:mouad14anes@gmail.com" target="_blank">
+  <a href="mailto:your.email@example.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
