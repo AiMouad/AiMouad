@@ -1,14 +1,14 @@
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Aichi+Mouad+%F0%9F%91%8B;Mobile+%26+Web+Developer+from+Algeria+%F0%9F%87%A9%F0%9F%87%BF;Building+Digital+Solutions+%E2%9A%A1;Flutter+%7C+React+%7C+Node.js+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&duration=2800&pause=2000&color=0075F2&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Aichi+Mouad+%F0%9F%91%8B;Mobile+%26+Web+Developer+from+Algeria+%F0%9F%87%A9%F0%9F%87%BF;Building+Digital+Solutions+%E2%9A%A1;Flutter+%7C+React+%7C+Node.js+Enthusiast" alt="Typing SVG" />
 </div>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Coding Animation" width="500">
 </p>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AiMouad&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=AiMouad&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/AiMouad?label=Followers&style=for-the-badge&color=blue" alt="GitHub followers" />
-  <img src="https://img.shields.io/badge/Focus-Mobile%20%26%20Web%20Development-brightgreen?style=for-the-badge" alt="Focus" />
+  <img src="https://img.shields.io/badge/Focus-Mobile%20%26%20Web%20Development-blue?style=for-the-badge" alt="Focus" />
 </div>
 
 ## 🚀 About Me
