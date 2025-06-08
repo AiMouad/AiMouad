@@ -152,7 +152,9 @@
 
 ## 📊 GitHub Analytics
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AiMouad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+ <div align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AiMouad&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&exclude_repo=java-repo-name-1,java-repo-name-2" alt="Top Languages" />
+</div>
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AiMouad&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </div>
 <div align="center">
