@@ -64,8 +64,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50" height="50" title="Flutter"/>
 
 ### Databases
-<img src="https://user-images.githubusercontent.com/74038190/212257455-8b76d67b-b3bc-4e77-9d27-e5b07b6ad2b7.gif" width="50" height="50" title="MySQL"/>
-<img src="https://user-images.githubusercontent.com/74038190/212257456-23c5a76d-82c8-4d47-b53b-f8fb41e13fcf.gif" width="50" height="50" title="MongoDB"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" title="MySQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50" title="MongoDB"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50" height="50" title="Firebase"/>
 
 ### Development Tools
