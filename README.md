@@ -1,6 +1,3 @@
-# Hi 👋, I'm Aichi Mouad
-
-### A Passionate Mobile & Web Developer from Algeria 🇩🇿
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Aichi+Mouad+%F0%9F%91%8B;Mobile+%26+Web+Developer+from+Algeria+%F0%9F%87%A9%F0%9F%87%BF;Building+Digital+Solutions+%E2%9A%A1;Flutter+%7C+React+%7C+Node.js+Enthusiast" alt="Typing SVG" />
