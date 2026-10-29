@@ -20,7 +20,7 @@
 ```yaml
 name: Aichi Mouad
 role: AI Engineering Student & Full-Stack Developer
-university: University of Tlemcen — Ingénieur (AI Specialization)
+university: University Abo Bakr Belkaid of Tlemcen — Ingénieur (AI Specialization)
 location: Algeria 🇩🇿
 focus:
   - Deep Learning & Medical AI
